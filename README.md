@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bakari-kingi
+- 👋 Hi, I’m Bakari Kingi
 - 👀 I’m interested in back-end development
 - 🌱 Talk to me about networking, web development...
 - email : bakarikingi254@gmail.com
