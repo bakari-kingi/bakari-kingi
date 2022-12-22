@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bakari Kingi
-- 👀 I’m interested in back-end development
+- 👀 I’m a back-end developer
 - 🌱 Talk to me about networking, app development...
 - email : bakarikingi254@gmail.com
 - phone : +254 795 599 996
